@@ -9,9 +9,9 @@
 <title>Мой сайт</title> <!-- Название вашего сайта во вкладке -->
 
 </head>
-<meta name="mfk-cpmcom-site-verification" content="ed0c0d926bd518fef50605b117d3f198">
-<body>
 
+<body>
+https://nicepirates.org/baner/b460_1.gif
 </body>
 
 </html>
